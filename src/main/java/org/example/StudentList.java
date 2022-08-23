@@ -393,14 +393,10 @@ public final class StudentList {
      */
     public static void sortList() {
 
-        System.out.println("#" + Constants.SORT_IN_CODE_FUNCTION
-                + ". Sort ascending by student ID.");
-        System.out.println("#" + Constants.SORT_DE_CODE_FUNCTION
-                + ". Sort descending by student ID.");
-        System.out.println("#" + Constants.SORT_IN_POINT_FUNCTION
-                + ". Sort ascending by student score.");
-        System.out.println("#" + Constants.SORT_DE_POINT_FUNCTION
-                + ". Sort descending by student score.");
+        System.out.println("#" + Constants.SORT_IN_CODE_FUNCTION + ". Sort ascending by student ID.");
+        System.out.println("#" + Constants.SORT_DE_CODE_FUNCTION + ". Sort descending by student ID.");
+        System.out.println("#" + Constants.SORT_IN_POINT_FUNCTION + ". Sort ascending by student score.");
+        System.out.println("#" + Constants.SORT_DE_POINT_FUNCTION + ". Sort descending by student score.");
 
         // get right input from user
         while (true) {

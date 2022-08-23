@@ -77,7 +77,7 @@ public final class FileFactory {
             listStudent.clear();
         }
 
-        // return studen list
+        // return student list
         return listStudent;
     }
 
@@ -210,4 +210,3 @@ public final class FileFactory {
     }
 
 }
-// E:\HK 6\Java\Deadline\Homework\1412228_JavaIO\bin\com\bai01\test.txt

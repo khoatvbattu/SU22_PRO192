@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc21774f-2dea-4dba-b58f-0127d9d11d33" name="Changes" comment="ReadFile">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FileFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/InputChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SortStudentList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StudentList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Data/Students.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Data/Subjects.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FileFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FileFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StudentList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StudentList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +40,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/FPT University/MAIN SUBJECT/PRO192/Practice/Pratice_01/Practice&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -72,7 +65,11 @@
       <updated>1660117634663</updated>
       <workItem from="1660117636768" duration="3261000" />
       <workItem from="1660177153719" duration="674000" />
-      <workItem from="1660448830317" duration="3598000" />
+      <workItem from="1660448830317" duration="4405000" />
+      <workItem from="1660613046073" duration="2613000" />
+      <workItem from="1660694989631" duration="2098000" />
+      <workItem from="1660707035182" duration="5000" />
+      <workItem from="1661214615831" duration="388000" />
     </task>
     <task id="LOCAL-00001" summary="hmmm">
       <created>1660117731176</created>
